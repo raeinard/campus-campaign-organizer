@@ -46,7 +46,7 @@ Expected column names:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/campus-campaign-organizer.git
+   git clone https://github.com/raeinard/campus-campaign-organizer.git
    cd campus-campaign-organizer
 
 
