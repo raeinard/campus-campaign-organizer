@@ -40,9 +40,9 @@ Expected column names:
 2. Upload your CSV/Excel file when prompted.
 3. Run all cells – download the zip file.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/campus-campaign-organizer/blob/main/campaign_organizer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raeinard/campus-campaign-organizer/blob/main/campaign_organizer.ipynb)
 
-*(Replace `yourusername` with your actual GitHub username after you upload the notebook)*
+
 
 ## Output
 
