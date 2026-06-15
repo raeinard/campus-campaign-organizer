@@ -61,6 +61,4 @@ Expected column names:
 - `data/sample_responses.csv` – anonymised sample data.
 - `.gitignore` – ignores generated files.
 
-## License
 
-MIT
