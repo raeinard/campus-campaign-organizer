@@ -35,12 +35,19 @@ Expected column names:
 - `Time available` (optional)
 
 ## How to use
-
+# Online Google Colab version
 1. Click the **Open in Colab** button below.
 2. Upload your CSV/Excel file when prompted.
 3. Run all cells – download the zip file.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raeinard/campus-campaign-organizer/blob/main/campaign_organizer.ipynb)
+
+# Local Python version
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/campus-campaign-organizer.git
+   cd campus-campaign-organizer
 
 
 
