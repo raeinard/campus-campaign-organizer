@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (ignore actual responses but keep sample)
+data/*.csv
+!data/sample_responses.csv
+
+# Outputs
+outputs/
+*.zip
+*.docx
+cleaned_responses.csv
+
+# Colab
+colab_*
+
+# macOS
+.DS_Store
